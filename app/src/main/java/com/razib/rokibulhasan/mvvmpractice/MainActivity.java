@@ -13,5 +13,6 @@ import android.widget.Toast;
         setContentView(R.layout.activity_main);
 
         Toast.makeText(this,"TEST",Toast.LENGTH_SHORT).show();
+
     }
 }
